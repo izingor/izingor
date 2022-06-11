@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Igor</h1>
-<h3 align="center">I am a looking for a position as a Full Stack developer</h3>
+<h3 align="center">I am lookin for a position as Fontend / Full Stack developer.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=izingor&label=Profile%20views&color=0e75b6&style=flat" alt="izingor" /> </p>
 

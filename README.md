@@ -1,6 +1,6 @@
 # 💫About Me :
 Hello! I am Igor.
-I am a Frontend/Full stack developer.
+A Frontend/Full stack developer.
 Currently looking for my next challenge and a position as a developer.
 
 ## 🌐Socials

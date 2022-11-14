@@ -1,7 +1,4 @@
-# 💫About Me :
-Hello! I am Igor.
-A Frontend/Full stack developer.
-Currently looking for my next challenge and position as a developer.
+
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/igor-ziskin-511900128) 
